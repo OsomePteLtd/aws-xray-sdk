@@ -13,7 +13,7 @@
   "dependencies": {
     "aws-xray-sdk-core": "2.3.4-experimental.1",
     "aws-xray-sdk-express": "2.3.4-experimental.1",
-    "aws-xray-sdk-koa": "github:OsomePteLtd/aws-xray-sdk-koa#89c1874edcd10b7b897a6f5c62b35cc9ad5675af",
+    "aws-xray-sdk-koa": "github:OsomePteLtd/aws-xray-sdk-koa",
     "aws-xray-sdk-mysql": "2.3.4-experimental.1",
     "aws-xray-sdk-postgres": "2.3.4-experimental.1",
     "pkginfo": "^0.4.0"
