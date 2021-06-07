@@ -15,7 +15,7 @@
     "aws-xray-sdk-express": "2.3.4-experimental.1",
     "aws-xray-sdk-koa": "github:OsomePteLtd/aws-xray-sdk-koa",
     "aws-xray-sdk-mysql": "2.3.4-experimental.1",
-    "aws-xray-sdk-postgres": "2.3.4-experimental.1",
+    "aws-xray-sdk-postgres": "2.5.0",
     "pkginfo": "^0.4.0"
   },
   "keywords": [
